@@ -6,5 +6,10 @@ namespace Autos.Interfaces
 {
     interface IElectric
     {
+        int SizeofBattery();
+
+        int TimeToCharge();
+
+
     }
 }
