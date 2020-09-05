@@ -13,12 +13,12 @@ namespace Autos
         protected int fuel;
         public int price;
 
-        protected void Transport(string origin, string destiny)
+        public void Transport(string origin, string destiny)
         {
             Console.WriteLine("You traveled from "+ origin + " to " + destiny);
         }
 
-        protected void Recharge(int quantity)
+        public void Recharge(int quantity)
         {
             fuel = fuel + quantity;
         }

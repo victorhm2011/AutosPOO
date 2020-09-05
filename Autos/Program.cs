@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Autos.Categories;
+using System;
 
 namespace Autos
 {
@@ -6,7 +7,12 @@ namespace Autos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Sedan corolla = new Sedan("corolla");
+
+            corolla.Transport("Cochabamba", "La Paz");
+
+            Console.WriteLine(corolla.SizeofBattery());
+
         }
     }
 }

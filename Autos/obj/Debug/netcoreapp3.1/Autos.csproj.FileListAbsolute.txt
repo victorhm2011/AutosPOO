@@ -1,0 +1,13 @@
+D:\catolica-II-2020\arqui\POO\Autos\Autos\bin\Debug\netcoreapp3.1\Autos.exe
+D:\catolica-II-2020\arqui\POO\Autos\Autos\bin\Debug\netcoreapp3.1\Autos.deps.json
+D:\catolica-II-2020\arqui\POO\Autos\Autos\bin\Debug\netcoreapp3.1\Autos.runtimeconfig.json
+D:\catolica-II-2020\arqui\POO\Autos\Autos\bin\Debug\netcoreapp3.1\Autos.runtimeconfig.dev.json
+D:\catolica-II-2020\arqui\POO\Autos\Autos\bin\Debug\netcoreapp3.1\Autos.dll
+D:\catolica-II-2020\arqui\POO\Autos\Autos\bin\Debug\netcoreapp3.1\Autos.pdb
+D:\catolica-II-2020\arqui\POO\Autos\Autos\obj\Debug\netcoreapp3.1\Autos.csprojAssemblyReference.cache
+D:\catolica-II-2020\arqui\POO\Autos\Autos\obj\Debug\netcoreapp3.1\Autos.AssemblyInfoInputs.cache
+D:\catolica-II-2020\arqui\POO\Autos\Autos\obj\Debug\netcoreapp3.1\Autos.AssemblyInfo.cs
+D:\catolica-II-2020\arqui\POO\Autos\Autos\obj\Debug\netcoreapp3.1\Autos.csproj.CoreCompileInputs.cache
+D:\catolica-II-2020\arqui\POO\Autos\Autos\obj\Debug\netcoreapp3.1\Autos.dll
+D:\catolica-II-2020\arqui\POO\Autos\Autos\obj\Debug\netcoreapp3.1\Autos.pdb
+D:\catolica-II-2020\arqui\POO\Autos\Autos\obj\Debug\netcoreapp3.1\Autos.genruntimeconfig.cache
