@@ -6,5 +6,9 @@ namespace Autos.Interfaces
 {
     interface IGas
     {
+        int MPG();
+
+        void Maintenance();
+
     }
 }
